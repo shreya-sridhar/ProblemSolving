@@ -29,3 +29,5 @@ s3 = "abc2[bc2[d]]"
 # print(decodeString(s2))
 print(decodeString(s3))
 
+
+
